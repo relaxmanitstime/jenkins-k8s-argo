@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: relaxmanitstime/mykaniko:3
+        image: relaxmanitstime/mykaniko:4
         ports:
         - containerPort: 8080
